@@ -2,7 +2,7 @@
 
 # I'm Mosammad Kabir
 
-I am a junior at Brooklyn College passionately studying Computer Science. I strive to become a skilled software engineer and write code to make life easier. I am currently 
+I am a junior at Brooklyn College passionately studying Computer Science. I strive to become a skilled software engineer and write code to make life easier. I am currently interning at Cognizant.
 
 Thanks for stopping by!
 
