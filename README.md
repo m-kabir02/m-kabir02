@@ -1,5 +1,4 @@
-
-# Hi 👋 I'm Mosammad Kabir
+### Hi 👋 I'm Mosammad Kabir
 
 I am a junior at Brooklyn College passionately studying Computer Science. I strive to become a skilled software engineer and write code to make life easier. 
 
