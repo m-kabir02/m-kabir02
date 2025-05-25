@@ -2,7 +2,7 @@
 
 # I'm Mosammad Kabir 👩‍💻
 
-I am a junior at Brooklyn College studying Computer Science. I strive to become a skilled software engineer and create user-friendly applications that solve real-world problems. Previously interned at Cognizant.
+I am a junior at Brooklyn College studying Computer Science. I strive to become a skilled software engineer and create user-friendly applications that solve real-world problems. Currently completing an AI & Automation Externship @Extern and previously interned at Cognizant
 
 Thanks for stopping by!
 
