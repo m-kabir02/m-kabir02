@@ -2,7 +2,7 @@
 
 # I'm Mosammad Kabir 👩‍💻
 
-I am a junior at Brooklyn College studying Computer Science. I strive to become a skilled software engineer and create user-friendly applications that solve real-world problems. Completed an AI & Automation Externship at Outamation via Extern and was previously a SWE intern at Cognizant.
+I am a Computer Science major at Brooklyn College. I strive to become a skilled software engineer and create user-friendly applications that solve real-world problems. Completed an AI & Automation Externship at Outamation via Extern and was previously a SWE intern at Cognizant.
 
 Thanks for stopping by!
 
