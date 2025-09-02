@@ -2,7 +2,7 @@
 # I'm Mosammad Kabir, a Software Engineer and AI enthusiast. 👩‍💻
 I am a Computer Science major at Brooklyn College with a passion for building robust, user-friendly applications that solve real-world problems.
 
-I have hands-on experience in full-stack development and AI automation, having completed a Software Engineer Intern at Cognizant and an AI & Automation Externship at Outamation.
+I have hands-on experience in full-stack development and AI automation, having completed a Software Engineer Intern at Cognizant and an AI & Automation Externship at Outamation. Currently completing my Beats By Dre Data Analytics Externship with Extern.
 
 My work in AI includes building a RAG pipeline from scratch and developing conversational AI applications using modern frameworks and models. I am actively looking for software engineering roles where I can apply my skills in full-stack development and machine learning to build impactful products.
 
@@ -21,8 +21,9 @@ PDF Q&A ChatBot: An AI-powered RAG application that answers questions about user
 Restaurant Sentiment Analyzer: A full-stack CRUD application for analyzing restaurant reviews using Hugging Face models.
 
 ### 🌱 What I'm Learning
-Advanced Data Structures
-Cloud Computing (AWS)
+- AWS Cloud Practitioner
+- Data Structures & Algorithms
+- LeetCode Practice
 
 
 ### 🤝 Connect with Me
